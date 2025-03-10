@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|c:\\users\\emman\\source\\repos\\miappweb\\miappweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|solutionrelative:miappweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|c:\\users\\emman\\source\\repos\\miappweb\\miappweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|solutionrelative:miappweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|c:\\users\\emman\\source\\repos\\miappweb\\miappweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|solutionrelative:miappweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|c:\\users\\emman\\source\\repos\\miappweb\\miappweb\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|solutionrelative:miappweb\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|c:\\users\\emman\\source\\repos\\miappweb\\miappweb\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|solutionrelative:miappweb\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|c:\\users\\emman\\source\\repos\\miappweb\\miappweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|solutionrelative:miappweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|c:\\users\\emman\\source\\repos\\miappweb\\miappweb\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|solutionrelative:miappweb\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|c:\\users\\emman\\source\\repos\\miappweb\\miappweb\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|solutionrelative:miappweb\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|c:\\users\\emman\\source\\repos\\miappweb\\miappweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|solutionrelative:miappweb\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|c:\\users\\emman\\source\\repos\\miappweb\\miappweb\\migrations\\20250310034611_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AB207B-2B3A-4E54-BFAB-D45EA9F654B3}|MiAppWeb\\MiAppWeb.csproj|solutionrelative:miappweb\\migrations\\20250310034611_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "MiAppWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\appsettings.json",
+              "RelativeToolTip": "MiAppWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T19:17:29.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MiAppWeb\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MiAppWeb\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:19:48.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MiAppWeb\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MiAppWeb\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:13:03.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Program.cs",
+              "RelativeDocumentMoniker": "MiAppWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Program.cs",
+              "RelativeToolTip": "MiAppWeb\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:09:39.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiAppWeb\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "MiAppWeb\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T04:51:58.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Views\\Usuarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiAppWeb\\Views\\Usuarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Views\\Usuarios\\Details.cshtml",
+              "RelativeToolTip": "MiAppWeb\\Views\\Usuarios\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T04:17:14.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250310034611_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Migrations\\20250310034611_Inicial.cs",
+              "RelativeDocumentMoniker": "MiAppWeb\\Migrations\\20250310034611_Inicial.cs",
+              "ToolTip": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Migrations\\20250310034611_Inicial.cs",
+              "RelativeToolTip": "MiAppWeb\\Migrations\\20250310034611_Inicial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T03:46:11.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiAppWeb\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "MiAppWeb\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T03:29:03.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "MiAppWeb\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "MiAppWeb\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T03:28:05.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "MiAppWeb\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\emman\\source\\repos\\MiAppWeb\\MiAppWeb\\Models\\Usuario.cs",
+              "RelativeToolTip": "MiAppWeb\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T03:09:09.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
